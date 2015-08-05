@@ -1,1 +1,1 @@
-Building upon simple jQuery clicking game with rails functionality. 
+[WIP] - Building upon simple jQuery clicking game with rails functionality. 
