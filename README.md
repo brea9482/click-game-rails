@@ -1,1 +1,1 @@
-Rails starter with bootstrap and devise
+Building upon simple jQuery clicking game with rails functionality. 
